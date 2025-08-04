@@ -17,17 +17,3 @@
 - `sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst && sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst`
 - `sudo nano /etc/pacman.conf` then paste `[chaotic-aur] Include = /etc/pacman.d/chaotic-mirrorlist` at the end of the file.
 
-## 4(a). Gnome Configuration :-
-
-### Extensions :-
-
-- AppIndicator and KStatusNotifierItem Support
-- Blur My Shell
-- Clipboard Indicator
-- Dash To Dock
-- Desktop Icons NG (DING)
-- Gnome 4x UI Improvements
-- GSConnect  `sudo ufw allow 1714:1764/udp && sudo ufw allow 1714:1764/tcp && sudo ufw reload`
-- Quick Settings Tweaks
-- Search Light
-- User Themes
