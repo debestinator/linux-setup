@@ -17,3 +17,6 @@
 ## 3. Go into respective directory of the DE or WM installed
 
 - For Gnome:- https://github.com/debestinator/linux-setup/tree/main/Gnome
+
+## 4. Extras
+- Printer:- https://github.com/debestinator/linux-setup/tree/main/Printer-Setup
