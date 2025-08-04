@@ -1,0 +1,1 @@
+# Fresh Gnome Install Coniguration.
