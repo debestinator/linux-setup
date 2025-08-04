@@ -15,3 +15,5 @@
 - `sudo nano /etc/pacman.conf` then paste `[chaotic-aur] Include = /etc/pacman.d/chaotic-mirrorlist` at the end of the file.
 
 ## 3. Go into respective directory of the DE or WM installed
+
+- For Gnome:- https://github.com/debestinator/linux-setup/tree/main/Gnome
