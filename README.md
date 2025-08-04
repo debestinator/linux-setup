@@ -7,7 +7,7 @@
 - `sudo pacman -S yay`
 
 #### For Fonts
-- `sudo nano /etc/environment` And Paste `FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"` at the end of file.
+- `sudo nano /etc/environment` then paste `FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"` at the end of file.
 
 #### For Gnome
 - `yay -S papirus-icon-theme celluloid rhythmbox shotwell onlyoffice-bin extension-manager ptyxis gdm-settings discord zen-browser-bin resources qbittorrent`
@@ -15,7 +15,7 @@
 #### Adding Chaotic-AUR
 - `sudo pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com && sudo pacman-key --lsign-key 3056513887B78AEB` 
 - `sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst && sudo pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst`
-- `sudo nano /etc/pacman.conf` And Then Paste `[chaotic-aur] Include = /etc/pacman.d/chaotic-mirrorlist` at the end of the file.
+- `sudo nano /etc/pacman.conf` then paste `[chaotic-aur] Include = /etc/pacman.d/chaotic-mirrorlist` at the end of the file.
 
 ## 4(a). Gnome Configuration :-
 
