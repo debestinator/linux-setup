@@ -1,3 +1,5 @@
+# ****** **Strictly For My Personal Use Only** ******
+
 # Things to do after fresh Linux install
 
 ## 1. Copy fastfetch config
