@@ -34,3 +34,4 @@ at the end of the file.
 
 ## 4. Extras
 - Printer:- https://github.com/debestinator/linux-setup/tree/main/Printer-Setup
+- Gaming:- https://github.com/debestinator/linux-setup/tree/main/Gaming
