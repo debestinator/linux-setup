@@ -10,3 +10,4 @@
 - Quick Settings Tweaks
 - Search Light
 - User Themes
+- GNOME Fuzzy App Search
